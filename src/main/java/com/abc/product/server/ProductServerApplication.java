@@ -1,4 +1,4 @@
-package com.hcl.product.server;
+package com.abc.product.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

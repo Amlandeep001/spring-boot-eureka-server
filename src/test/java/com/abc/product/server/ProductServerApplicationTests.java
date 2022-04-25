@@ -1,4 +1,4 @@
-package com.hcl.product.server;
+package com.abc.product.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
